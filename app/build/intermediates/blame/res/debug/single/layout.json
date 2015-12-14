@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_main.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_main.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_setting.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_setting.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_bulb.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_bulb.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_warnning.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_warnning.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_flashlight.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_flashlight.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_colorlight.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_colorlight.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_morse.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_morse.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/huziqin/Documents/workspace/superLight/app/build/intermediates/res/merged/debug/layout/ui_policelight.xml",
+        "source": "/Users/huziqin/Documents/workspace/superLight/app/src/main/res/layout/ui_policelight.xml"
+    }
+]

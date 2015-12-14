@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/framelayout_police_light"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:visibility="gone">
+
+    <com.example.superlight.widget.autoHideText
+        android:id="@+id/aotoHideText_policelight"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="红蓝警灯"
+        android:textColor="#FF0"
+        android:textSize="20sp" />
+
+</FrameLayout>

@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/framelayout_bulb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:visibility="gone">
+
+    <ImageView android:id="@+id/imageview_bulb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bulb_onoff"
+        android:onClick="onClick_bulb"/>
+    
+    <com.example.superlight.widget.autoHideText
+        android:id="@+id/aotoHideText_bulb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="点一下这里看看"
+        android:gravity="center"
+        android:textSize="20sp"
+        />
+</FrameLayout>
